@@ -2,7 +2,7 @@ Fertilizante,Nitrogeno,Fosforo,Potasio,Calcio,Magnesio,Azufre
 17-17-17,0.17,0.17,0.17,0,0,0
 Acido fosforico,0,0.52,0,0,0,0
 Acido sulfurico,0.1,0,0,0,0,0.18
-Acido sulfurico +UREA,0.15,0,0,0,0,0.16
+Acido sulfurico y UREA,0.15,0,0,0,0,0.16
 Amoniaco anhidro,0.82,0,0,0,0,0
 Azufre de mina,0,0,0,0,0,0.33
 Cianamida de calcio,0.22,0,0,0.54,0,0.02
